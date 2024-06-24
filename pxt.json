@@ -12,5 +12,6 @@
     "dependencies": {
         "device": "*"
     },
+    "assetPack": true,
     "testDependencies": {}
 }
