@@ -5,7 +5,9 @@
         "device": "*"
     },
     "files": [
-        "main.ts"
+        "main.ts",
+        "images.g.jres",
+        "images.g.ts"
     ],
     "testDependencies": {},
     "targetVersions": {
@@ -15,5 +17,6 @@
     "supportedTargets": [
         "arcade"
     ],
-    "preferredEditor": "tsprj"
+    "preferredEditor": "tsprj",
+    "assetPack": true
 }
